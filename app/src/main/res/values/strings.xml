@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">OCR Translate</string>
+    <string name="photo">Photo</string>
+    <string name="about">About</string>
+    <string name="is"> Aplikasi OCR Translate adalah sebuah aplikasi peneerjemah bahasa Inggris - Indonesia
+                        yang memanfaatkan Tesseract Engine. Anda dapat menerjemahkan bahasa dengan mencapture
+                        teks bahsa Inggris melalui kamera smartphone. \n
+                    \nMade by:  Abdul Karim.
+                    \nEmail : ak339444@gmail.com
+                    \nCopyright_2019</string>
+    <string name="credits">Credits</string>
+    <string name="isi"> + This apps uses following libraries:
+                    \n+ Yandex for translation
+                    \n+ Google OCR for optical character recognition
+                    \n+ Retrofit for API Calls</string>
+
+
+
+    <string name="next">Next</string>
+    <string name="skip">SKIP</string>
+    <string name="start">Start Now</string>
+    <string name="close">Close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="finish">Finish</string>
+</resources>

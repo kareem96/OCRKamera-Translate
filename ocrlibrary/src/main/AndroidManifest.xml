@@ -1,0 +1,15 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.abdulkarim.ocrlibrary">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+
+        <activity
+            android:name="com.abdulkarim.ocrlibrary.OcrCaptureActivity"
+            android:label="Ocr Capture Activity"
+            android:theme="@style/AppTheme.NoActionBar" />
+    </application>
+</manifest>

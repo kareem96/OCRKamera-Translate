@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/back_design"
+    tools:context=".slider.SliderFragment1">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ImageView
+        android:layout_gravity="center"
+        android:layout_marginBottom="150dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/icon_ocr"/>
+
+    <TextView
+        android:id="@+id/test"
+        android:gravity="center"
+        android:textSize="35dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Use OCR to detect text via Camera" />
+
+
+
+</FrameLayout>

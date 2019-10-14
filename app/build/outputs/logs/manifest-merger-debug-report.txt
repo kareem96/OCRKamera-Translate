@@ -1,0 +1,273 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml:2:1-32:12
+MERGED from [:ocrlibrary] /home/kareem/AndroidStudioProjects/OCRKameraTranslate/ocrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:design:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/412da715cb7fd1e7b4ca0881f900e310/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/0c64b271cbaae67f66a65b121ae8a369/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/kareem/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d1dccbb67dbf0258c560638234e64730/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/162a700feefe3d068047f20500df4190/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/16793706758ccec7eb5765de2823ebd3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/e8753de4ec209f3f97a73499d12fd2d1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/69f8005f693d14aebed70751db8c02b8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/26ccee300af6832060fb1f6e6ba4edf2/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/8dc7b1ebee3a2de2193fb87f2c7b6953/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/5ad7e5ae54b6b02363cdb5fd2b8faf2f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0345ceeba737794c4f6f66c405c92e08/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/6805969b3fe3e6fd534f33e51ee5a7c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/21c27aa61878556142d829b5acb5b0c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/f62276b6d48a17f04dc0b6387f8dad4a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e0cb6b5791ea01d175cead1e0ad86a97/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/a6a551f2e838e3afb6d29daacec73525/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/b1ab0b712ca4ab890f6753bbd3675fe2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7fd4308211a38073ba8c8c6d28fb00a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6be56a656661e92ad77e7e3eeb0d0661/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b78dd509ec3d2e5f34a3e712fd0ee688/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/121c6e8aee7ef3d35e09f2e4287b4077/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/aa8b416d9f3b8863a0b8545e04181a01/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/567e2cb26e43053b93df665f5a472f85/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e5dea5e0385bc1476eaeb8c4780c30fa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/c96c56142524aa6102c5db9eba63c131/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3fefc2088970dce9c16283cf3c5cfe60/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f706ac5bcf2e75cf4bc74ba37b233ad3/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/29723cf93fdebe6bfed40785f460b7fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/975fd9ee86264cdeda14c15b7ba6f349/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/88bb7578b5e6d40a68b55f6577c08975/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8ae1270d6fa0b009e894f1adb4967f24/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/6cf366799149abfe3a66e19ecbbb9a59/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e775344969ac3f56566943f9acc642de/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/19b8bbc49312104da5c4a4e705b99921/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/93a10be9ade1442c76b29434e5aaacbd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/223e88704c613ba5dbe29f18a15fa015/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c443a7338b7ca18a93c572a95d19b97d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3adf802215cac1d92ebb889f57a7d6fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/fe0a63e371d16ac8d5906b8a0a9f7d19/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/5c8de04777b748c00bc31221eacb0512/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/9119f79342c303247492cb51967127f9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/9fda7697cd5950415443dac0d6ecb16e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/401294218b2f1d0e47dcfa45d3d4c62c/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml
+		ADDED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml
+		ADDED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml:7:22-64
+application
+ADDED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml:9:5-30:19
+MERGED from [:ocrlibrary] /home/kareem/AndroidStudioProjects/OCRKameraTranslate/ocrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-20:19
+MERGED from [:ocrlibrary] /home/kareem/AndroidStudioProjects/OCRKameraTranslate/ocrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-20:19
+MERGED from [com.android.support:design:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/412da715cb7fd1e7b4ca0881f900e310/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/412da715cb7fd1e7b4ca0881f900e310/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/kareem/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d1dccbb67dbf0258c560638234e64730/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/kareem/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d1dccbb67dbf0258c560638234e64730/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/162a700feefe3d068047f20500df4190/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/162a700feefe3d068047f20500df4190/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/16793706758ccec7eb5765de2823ebd3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/16793706758ccec7eb5765de2823ebd3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/e8753de4ec209f3f97a73499d12fd2d1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/e8753de4ec209f3f97a73499d12fd2d1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/69f8005f693d14aebed70751db8c02b8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/69f8005f693d14aebed70751db8c02b8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/26ccee300af6832060fb1f6e6ba4edf2/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/26ccee300af6832060fb1f6e6ba4edf2/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3fefc2088970dce9c16283cf3c5cfe60/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3fefc2088970dce9c16283cf3c5cfe60/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f706ac5bcf2e75cf4bc74ba37b233ad3/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f706ac5bcf2e75cf4bc74ba37b233ad3/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/fe0a63e371d16ac8d5906b8a0a9f7d19/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/fe0a63e371d16ac8d5906b8a0a9f7d19/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/5c8de04777b748c00bc31221eacb0512/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/5c8de04777b748c00bc31221eacb0512/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/9119f79342c303247492cb51967127f9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/9119f79342c303247492cb51967127f9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/9fda7697cd5950415443dac0d6ecb16e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/9fda7697cd5950415443dac0d6ecb16e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/401294218b2f1d0e47dcfa45d3d4c62c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/401294218b2f1d0e47dcfa45d3d4c62c/AndroidManifest.xml:22:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3fefc2088970dce9c16283cf3c5cfe60/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml:14:9-48
+	android:icon
+		ADDED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml:10:9-44
+activity#com.abdulkarim.ocrkameratranslate.slider.SliderActivity
+ADDED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml:18:9-25:20
+	android:name
+		ADDED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml:18:19-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.abdulkarim.ocrkameratranslate.MainActivity
+ADDED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml:26:9-29:20
+	android:name
+		ADDED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml:26:19-47
+uses-sdk
+INJECTED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml
+INJECTED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml
+MERGED from [:ocrlibrary] /home/kareem/AndroidStudioProjects/OCRKameraTranslate/ocrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:ocrlibrary] /home/kareem/AndroidStudioProjects/OCRKameraTranslate/ocrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/412da715cb7fd1e7b4ca0881f900e310/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/412da715cb7fd1e7b4ca0881f900e310/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/0c64b271cbaae67f66a65b121ae8a369/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/0c64b271cbaae67f66a65b121ae8a369/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/kareem/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d1dccbb67dbf0258c560638234e64730/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/kareem/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d1dccbb67dbf0258c560638234e64730/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/162a700feefe3d068047f20500df4190/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/162a700feefe3d068047f20500df4190/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/16793706758ccec7eb5765de2823ebd3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/16793706758ccec7eb5765de2823ebd3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/e8753de4ec209f3f97a73499d12fd2d1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/e8753de4ec209f3f97a73499d12fd2d1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/69f8005f693d14aebed70751db8c02b8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/69f8005f693d14aebed70751db8c02b8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/26ccee300af6832060fb1f6e6ba4edf2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/26ccee300af6832060fb1f6e6ba4edf2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/8dc7b1ebee3a2de2193fb87f2c7b6953/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/8dc7b1ebee3a2de2193fb87f2c7b6953/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/5ad7e5ae54b6b02363cdb5fd2b8faf2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/5ad7e5ae54b6b02363cdb5fd2b8faf2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0345ceeba737794c4f6f66c405c92e08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0345ceeba737794c4f6f66c405c92e08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/6805969b3fe3e6fd534f33e51ee5a7c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/6805969b3fe3e6fd534f33e51ee5a7c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/21c27aa61878556142d829b5acb5b0c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/21c27aa61878556142d829b5acb5b0c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/f62276b6d48a17f04dc0b6387f8dad4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/f62276b6d48a17f04dc0b6387f8dad4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e0cb6b5791ea01d175cead1e0ad86a97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e0cb6b5791ea01d175cead1e0ad86a97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/a6a551f2e838e3afb6d29daacec73525/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/a6a551f2e838e3afb6d29daacec73525/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/b1ab0b712ca4ab890f6753bbd3675fe2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/b1ab0b712ca4ab890f6753bbd3675fe2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7fd4308211a38073ba8c8c6d28fb00a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7fd4308211a38073ba8c8c6d28fb00a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6be56a656661e92ad77e7e3eeb0d0661/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6be56a656661e92ad77e7e3eeb0d0661/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b78dd509ec3d2e5f34a3e712fd0ee688/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b78dd509ec3d2e5f34a3e712fd0ee688/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/121c6e8aee7ef3d35e09f2e4287b4077/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/121c6e8aee7ef3d35e09f2e4287b4077/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/aa8b416d9f3b8863a0b8545e04181a01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/aa8b416d9f3b8863a0b8545e04181a01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/567e2cb26e43053b93df665f5a472f85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/567e2cb26e43053b93df665f5a472f85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e5dea5e0385bc1476eaeb8c4780c30fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e5dea5e0385bc1476eaeb8c4780c30fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/c96c56142524aa6102c5db9eba63c131/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/c96c56142524aa6102c5db9eba63c131/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3fefc2088970dce9c16283cf3c5cfe60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3fefc2088970dce9c16283cf3c5cfe60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f706ac5bcf2e75cf4bc74ba37b233ad3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f706ac5bcf2e75cf4bc74ba37b233ad3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/29723cf93fdebe6bfed40785f460b7fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/29723cf93fdebe6bfed40785f460b7fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/975fd9ee86264cdeda14c15b7ba6f349/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/975fd9ee86264cdeda14c15b7ba6f349/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/88bb7578b5e6d40a68b55f6577c08975/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/88bb7578b5e6d40a68b55f6577c08975/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8ae1270d6fa0b009e894f1adb4967f24/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8ae1270d6fa0b009e894f1adb4967f24/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/6cf366799149abfe3a66e19ecbbb9a59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/6cf366799149abfe3a66e19ecbbb9a59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e775344969ac3f56566943f9acc642de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e775344969ac3f56566943f9acc642de/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/19b8bbc49312104da5c4a4e705b99921/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/19b8bbc49312104da5c4a4e705b99921/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/93a10be9ade1442c76b29434e5aaacbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/kareem/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/93a10be9ade1442c76b29434e5aaacbd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/223e88704c613ba5dbe29f18a15fa015/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/223e88704c613ba5dbe29f18a15fa015/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c443a7338b7ca18a93c572a95d19b97d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c443a7338b7ca18a93c572a95d19b97d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3adf802215cac1d92ebb889f57a7d6fc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3adf802215cac1d92ebb889f57a7d6fc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/fe0a63e371d16ac8d5906b8a0a9f7d19/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/fe0a63e371d16ac8d5906b8a0a9f7d19/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/5c8de04777b748c00bc31221eacb0512/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/5c8de04777b748c00bc31221eacb0512/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/9119f79342c303247492cb51967127f9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/9119f79342c303247492cb51967127f9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/9fda7697cd5950415443dac0d6ecb16e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/9fda7697cd5950415443dac0d6ecb16e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/401294218b2f1d0e47dcfa45d3d4c62c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/401294218b2f1d0e47dcfa45d3d4c62c/AndroidManifest.xml:20:5-44
+INJECTED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml
+INJECTED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml
+		ADDED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml
+		ADDED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kareem/AndroidStudioProjects/OCRKameraTranslate/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [:ocrlibrary] /home/kareem/AndroidStudioProjects/OCRKameraTranslate/ocrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from [:ocrlibrary] /home/kareem/AndroidStudioProjects/OCRKameraTranslate/ocrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-62
+activity#com.abdulkarim.ocrlibrary.OcrCaptureActivity
+ADDED from [:ocrlibrary] /home/kareem/AndroidStudioProjects/OCRKameraTranslate/ocrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-19:59
+	android:label
+		ADDED from [:ocrlibrary] /home/kareem/AndroidStudioProjects/OCRKameraTranslate/ocrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-49
+	android:theme
+		ADDED from [:ocrlibrary] /home/kareem/AndroidStudioProjects/OCRKameraTranslate/ocrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from [:ocrlibrary] /home/kareem/AndroidStudioProjects/OCRKameraTranslate/ocrlibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-72
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/e8753de4ec209f3f97a73499d12fd2d1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/e8753de4ec209f3f97a73499d12fd2d1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/e8753de4ec209f3f97a73499d12fd2d1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/e8753de4ec209f3f97a73499d12fd2d1/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/26ccee300af6832060fb1f6e6ba4edf2/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/26ccee300af6832060fb1f6e6ba4edf2/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] /home/kareem/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/26ccee300af6832060fb1f6e6ba4edf2/AndroidManifest.xml:24:13-58
